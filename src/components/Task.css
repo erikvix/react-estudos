@@ -1,1 +1,6 @@
-.task-container{}
+.task-container{
+  background-color: #020617;
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
