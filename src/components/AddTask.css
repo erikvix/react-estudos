@@ -6,10 +6,14 @@
 
 .add-input{
     border-radius: 0.5rem;
-    border: 1px solid #D12340;
+    border: 2px solid #FC2C64ff;
     background-color: transparent;
     padding: 0.5rem 0.8rem;
     flex: 2;
     color: #eee;
     font-size: 1rem;
+}
+.add-button{
+    margin-left: 10px;
+    flex: 1;
 }

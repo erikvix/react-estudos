@@ -1,9 +1,10 @@
 .button{
     border: none;
     width: 100%;
-    background-color: #D12340;
-    color: #eee;
+    background-color: #FC2C64ff;
+    color: #FFF9FBff;
     border-radius: 0.2rem;
     font-weight: bold;
     cursor: pointer;
+    height: 40px;
 }
