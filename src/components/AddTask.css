@@ -5,12 +5,12 @@
 }
 
 .add-input{
-    border-radius: 0.5rem;
+    border-radius: 0.2rem;
     border: 2px solid #FC2C64ff;
     background-color: transparent;
     padding: 0.5rem 0.8rem;
     flex: 2;
-    color: #eee;
+    color: #FC2C64ff;
     font-size: 1rem;
 }
 .add-button{

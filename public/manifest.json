@@ -8,9 +8,8 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "https://fonts.googleapis.com/css2?family=Poppins&display=swap",
+      "rel": "stylesheet"
     },
     {
       "src": "logo512.png",
